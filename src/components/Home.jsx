@@ -22,7 +22,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4  max-w-md">
             Hey! I’m Jigar, a full-stack developer with a passion for crafting
-            seamless digital Skillss. From front-end magic to back-end wizardry,
+            seamless digital Skills. From front-end magic to back-end wizardry,
             I turn ideas into elegant code. Let’s build something awesome
             together!
           </p>

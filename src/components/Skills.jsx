@@ -2,10 +2,8 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactJs from "../assets/react.png";
-// import nextjs from "../assets/nextjs.png";
 import tailwind from "../assets/tailwind.png";
 import github from "../assets/github.png";
-// import graphql from "../assets/graphql.png";
 import node from "../assets/node.png";
 const Skills = () => {
   const techs = [
