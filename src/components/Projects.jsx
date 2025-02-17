@@ -13,7 +13,7 @@ const Projects = () => {
       id: 2,
       src: ConnecTalk,
       github: "https://github.com/JigarRaval/ConnecTalk",
-      demo: "https://connectalk.onrender.com/",
+      demo: "https://connectalk.netlify.app/",
     },
   ];
   return (
