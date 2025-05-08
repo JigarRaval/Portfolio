@@ -1,5 +1,5 @@
 import Paperss from "../assets/portfolio/Paperss.png";
-import ConnecTalk from "../assets/portfolio/ConnecTalk2.png";
+import ConnecTalk from "../assets/portfolio/connectalk.png";
 import AsktoPedia from "../assets/portfolio/asktopedia.png";
 const Projects = () => {
   const list = [
