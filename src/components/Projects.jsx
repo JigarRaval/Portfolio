@@ -1,6 +1,6 @@
 import Paperss from "../assets/portfolio/Paperss.png";
 import ConnecTalk from "../assets/portfolio/ConnecTalk2.png";
-
+import AsktoPedia from "../assets/portfolio/asktopedia.png";
 const Projects = () => {
   const list = [
     {
@@ -14,6 +14,12 @@ const Projects = () => {
       src: ConnecTalk,
       github: "https://github.com/JigarRaval/ConnecTalk",
       demo: "https://connectalk.netlify.app/",
+    },
+    {
+      id: 3,
+      src: AsktoPedia,
+      github: "https://github.com/JigarRaval/ASKTOPEDIA",
+      demo: "https://asktopedia.netlify.app/",
     },
   ];
   return (
